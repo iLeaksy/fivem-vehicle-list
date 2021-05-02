@@ -276,7 +276,6 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('ruiner3', 'ruiner3', 45000, 'muscle'),
 	('Rumpo', 'rumpo', 15000, 'vans'),
 	('rumpo2', 'rumpo2', 20000, 'vans'),
-	('rumpo3', 'rumpo3', 20000, 'vans'),
 	('ruston', 'ruston', 20000, 'sports'),
 	('s80', 's80', 20000, 'super'),
 	('Sabre Turbo', 'sabregt', 20000, 'muscle'),
