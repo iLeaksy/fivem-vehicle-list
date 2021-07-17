@@ -401,6 +401,7 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('Zombie', 'zombiea', 9500, 'motorcycles'),
 	('Zombie Luxuary', 'zombieb', 12000, 'motorcycles'),
 	('zorrusso', 'zorrusso', 20000, 'super'),
+	('caracara2', 'caracara2', 20000, 'offroad'),
 	('Z-Type', 'ztype', 220000, 'sportsclassics');
 
 
