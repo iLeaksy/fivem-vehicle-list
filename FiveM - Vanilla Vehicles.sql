@@ -402,8 +402,24 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('Zombie Luxuary', 'zombieb', 12000, 'motorcycles'),
 	('zorrusso', 'zorrusso', 20000, 'super'),
 	('caracara2', 'caracara2', 20000, 'offroad'),
-	('Z-Type', 'ztype', 220000, 'sportsclassics');
-
+	('Z-Type', 'ztype', 220000, 'sportsclassics'),
+	('comet6', 'comet6'. 2000 'sports'),
+	('dominator7', 'dominator7'. 2000 'sports'),
+	('dominator8', 'dominator8'. 2000 'sports'),
+	('euros', 'euros'. 2000 'sports'),
+	('futo2', 'futo2'. 2000 'sports'),
+	('rt3000', 'rt3000'. 2000 'sports'),
+	('sultan3', 'sultan3'. 2000 'sports'),
+	('tailgater2', 'ater2'. 2000 'sports'),
+	('growler', 'owler'. 2000 'sports'),
+	('vectre', 'ectre'. 2000 'sports'),
+	('remus', 'remus'. 2000 'sports'),
+	('calico', 'alico'. 2000 'sports'),
+	('cypher', 'ypher'. 2000 'sports'),
+	('jester4', 'ster4'. 2000 'sports'),
+	('zr350', 'zr350'. 2000 'sports'),
+	('previon', 'evion'. 2000 'sports'),
+	('warrener2', 'warrener2', 20000, 'Sports');
 
 
 
