@@ -419,7 +419,7 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('jester4', 'jester4', 2000 'sports'),
 	('zr350', 'zr350', 2000 'sports'),
 	('previon', 'previon', 2000 'sports'),
-	('warrener2', 'warrener2', 20000, 'Sports');
+	('warrener2', 'warrener2', 20000, 'sports');
 
 
 
