@@ -8,3 +8,5 @@ The SQL file does **NOT** containt flying vehicles, nor vehicles that have weapo
 
 
 leaksy#7860 - Any information needed!
+
+Thank you @iSentrie for noticing my mispellings and finding the new LST DLC Vehicle spawn codes.
