@@ -410,15 +410,15 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('futo2', 'futo2'. 2000 'sports'),
 	('rt3000', 'rt3000'. 2000 'sports'),
 	('sultan3', 'sultan3'. 2000 'sports'),
-	('tailgater2', 'ater2'. 2000 'sports'),
-	('growler', 'owler'. 2000 'sports'),
-	('vectre', 'ectre'. 2000 'sports'),
+	('tailgater2', 'tailgater2'. 2000 'sports'),
+	('growler', 'growler'. 2000 'sports'),
+	('vectre', 'vectre'. 2000 'sports'),
 	('remus', 'remus'. 2000 'sports'),
-	('calico', 'alico'. 2000 'sports'),
-	('cypher', 'ypher'. 2000 'sports'),
-	('jester4', 'ster4'. 2000 'sports'),
+	('calico', 'calico'. 2000 'sports'),
+	('cypher', 'cypher'. 2000 'sports'),
+	('jester4', 'jester4'. 2000 'sports'),
 	('zr350', 'zr350'. 2000 'sports'),
-	('previon', 'evion'. 2000 'sports'),
+	('previon', 'previon'. 2000 'sports'),
 	('warrener2', 'warrener2', 20000, 'Sports');
 
 
