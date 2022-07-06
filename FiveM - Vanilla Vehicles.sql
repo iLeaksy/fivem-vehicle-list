@@ -418,10 +418,26 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('jester4', 'jester4', 2000, 'sports'),
 	('zr350', 'zr350', 2000, 'sports'),
 	('previon', 'previon', 2000 ,'sports'),
-	('warrener2', 'warrener2', 20000, 'sports');
-
-
-
+	('warrener2', 'warrener2', 20000, 'sports'),
+	-- new dlc
+	('Pfister Astron',  'astron',  20000 ,'SUVs'),
+	('Gallivanter Baller ST',  'baller7',  20000 , 'SUVs'),
+	('Bravado Buffalo STX',  'buffalo4' ,  20000 ,'Muscle'),
+	('Dewbauchee Champion',  'champion' ,  20000 ,'Super'),
+	('Lampadati Cinquemila',  'cinquemila',  20000 ,'Sedans'),
+	('Pfister Comet S2 Cabrio',  'comet7',  20000 ,'Sports'),
+	('Enus Deity',  'deity',  20000 , 'Sedans'),
+	('Declasse Granger 3600LX',  'granger2',  20000 , 'SUVs'),
+	('Pegassi Ignus',  'ignus',  20000 ,'Super'),
+	('Obey IWagen',  'iwagen',  20000 , 'SUVs'),
+	('Enus Jubilee',  'jubilee',  20000 , 'SUVs'),
+	('Maibatsu Mule',  'mule5', 20000 , 'Commercial'),
+	('Mammoth Patriot MilSpec',  20000 , 'patriot3', 'OffRoad'),
+	('Western Reever',  'reever', 20000 , 'Motorcycles'),
+	('Nagasaki Shinobi',  'shinobi', 20000 , 'Motorcycles'),
+	('Vapid Youga Custom',  'youga4', 20000 , 'Vans'),
+	('Overflod Zeno',  'zeno', 20000 , 'Super');
+	
 CREATE TABLE IF NOT EXISTS `vehicles_category` (
   `name` varchar(60) NOT NULL,
   `label` varchar(60) NOT NULL,
