@@ -436,7 +436,33 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('Western Reever',  'reever', 20000 , 'Motorcycles'),
 	('Nagasaki Shinobi',  'shinobi', 20000 , 'Motorcycles'),
 	('Vapid Youga Custom',  'youga4', 20000 , 'Vans'),
-	('Overflod Zeno',  'zeno', 20000 , 'Super');
+	('Overflod Zeno',  'zeno', 20000 , 'Super'),
+	--  Criminal Entrprise DLC
+	('corsita',  'corsita', 20000 , 'Sports'),
+	('Bravado Greenwood',  'greenwood ', 20000 , 'muscle'),
+	('LM87',  'lm87', 20000 , 'super'),
+	('Torero XO',  'torero2', 20000 , 'super'),
+	('LM87',  'omnisegt', 20000 , 'sports'),
+	-- LS Drugwars DLC
+	('300R',  'r300', 20000 , 'sports'),
+	('ENTITY ML',  'entity3', 20000 , 'sports'),
+	('JOURNEY II',  'journey2', 20000 , 'vans'),
+	('MANCEZ SCOUT C',  'manchez3', 20000 , 'motorcycles'),
+	('Surfer Custom',  'surfer3', 20000 , 'vans'),
+	('Tulip M-100',  'tulip2', 20000 , 'muscle'),
+	('Tahoma Coupe',  'tahoma', 20000 , 'muscle'),
+	('Powersurge',  'powersurge', 20000 , 'motorcycles'),
+	('Issi Rally',  'issi8', 20000 , 'offroad'),
+	('Boradway',  'broadway', 20000 , 'muscle'),
+	('Pantere',  'panthere', 20000 , 'sports'),
+	('Boor',  'boor', 20000 , 'muscle'),
+	('Eudora',  'eudora', 20000 , 'muscle'),
+	('Hotring Everon',  'everon2', 20000 , 'muscle'),
+	('Virtue',  'virtue', 20000 , 'sports');
+
+	
+
+
 	
 CREATE TABLE IF NOT EXISTS `vehicles_category` (
   `name` varchar(60) NOT NULL,
