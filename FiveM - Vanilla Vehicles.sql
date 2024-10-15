@@ -419,7 +419,6 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('zr350', 'zr350', 2000, 'sports'),
 	('previon', 'previon', 2000 ,'sports'),
 	('warrener2', 'warrener2', 20000, 'sports'),
-	-- new dlc
 	('Pfister Astron',  'astron',  20000 ,'SUVs'),
 	('Gallivanter Baller ST',  'baller7',  20000 , 'SUVs'),
 	('Bravado Buffalo STX',  'buffalo4' ,  20000 ,'Muscle'),
@@ -437,13 +436,11 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('Nagasaki Shinobi',  'shinobi', 20000 , 'Motorcycles'),
 	('Vapid Youga Custom',  'youga4', 20000 , 'Vans'),
 	('Overflod Zeno',  'zeno', 20000 , 'Super'),
-	--  Criminal Entrprise DLC
 	('corsita',  'corsita', 20000 , 'Sports'),
 	('Bravado Greenwood',  'greenwood ', 20000 , 'muscle'),
 	('LM87',  'lm87', 20000 , 'super'),
 	('Torero XO',  'torero2', 20000 , 'super'),
 	('LM87',  'omnisegt', 20000 , 'sports'),
-	-- LS Drugwars DLC
 	('300R',  'r300', 20000 , 'sports'),
 	('ENTITY ML',  'entity3', 20000 , 'sports'),
 	('JOURNEY II',  'journey2', 20000 , 'vans'),
@@ -459,6 +456,11 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('Eudora',  'eudora', 20000 , 'muscle'),
 	('Hotring Everon',  'everon2', 20000 , 'muscle'),
 	('Virtue',  'virtue', 20000 , 'sports');
+	('Bravado Buffalo EVX', 'buffalo5', 20000, 'muscle'),
+	('Coil Inductor', 'inductor', 20000, 'sports'),
+	('Declasse Walton L35', 'waltonl35', 20000, 'offroad'),
+	('Bravado Gauntlet Hellfire', 'gauntlet4', 45000, 'muscle'),
+	('Canis Seminole Frontier', 'seminole2', 45000, 'suvs');
 
 	
 
@@ -484,4 +486,3 @@ INSERT INTO `vehicles_category` (`name`, `label`) VALUES
 	('super', 'Super'),
 	('suvs', 'SUVs'),
 	('vans', 'Vans');
-
