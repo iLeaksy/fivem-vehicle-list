@@ -1,6 +1,6 @@
 # GTAV: ONLINE Vanilla & DLC Vehicles SQL File
 
-This SQL file contains **451 GTAV: ONLINE vehicles** across multiple DLCs, including:
+This SQL file contains **500+ GTAV: ONLINE vehicles** across multiple DLCs, including:
 - **Diamond Casino**  
 - **Cayo Perico**  
 - **Los Santos Tuners DLC**  
