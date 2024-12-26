@@ -454,8 +454,6 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES
 	('Eudora',  'eudora', 20000 , 'muscle'),
 	('Hotring Everon',  'everon2', 20000 , 'muscle'),
 	('Virtue',  'virtue', 20000 , 'sports'),
-	('Bravado Buffalo EVX', 'buffalo5', 20000, 'muscle'),
-	('Coil Inductor', 'inductor', 20000, 'sports'),
 	('Declasse Walton L35', 'waltonl35', 20000, 'offroad'),
 	('Bravado Gauntlet Hellfire', 'gauntlet4', 45000, 'muscle'),
 	('Canis Seminole Frontier', 'seminole2', 45000, 'suvs'),
